@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Radriverron
-- 👀 I’m interested in Core Python, Javascript, Terraform(HCL) and Powershell 
+- 👀 I’m interested in Python, Javascript, Terraform(HCL), PostgreSQL, Svelte and Powershell 
 - 🌱 I’m currently learning Python Web Frameworks and Analytics 
 
 
